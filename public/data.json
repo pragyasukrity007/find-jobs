@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png",
+    "jobTitle": "Leading computer networking products.",
+    "jobOpenings": "50+",
+    "jobDescription": "We are seeking a talented Marketing Manager to lead our team in creating effective marketing campaigns and building brand awareness.",
+    "jobResponsibility": "Develop and execute marketing campaigns across multiple channels. Analyze campaign data and adjust strategies as needed. Manage team of marketing specialists.",
+    "educationalRequirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "Minimum of 5 years of experience in marketing, with at least 2 years in a management role.",
+    "phone": "555-234-5678",
+    "email": "jobs@cisco.com",
+    "salary": "5000000",
+    "location": "Hyderabad/ Bangalore/ Coimbatire"
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/General_Electric_logo.svg/1200px-General_Electric_logo.svg.png",
+    "jobTitle": "Leading multinational conglomerate company.",
+    "jobOpenings": "43+",
+    "jobDescription": "We are seeking a detail-oriented Data Analyst to analyze and interpret complex data sets and provide insights to our team.",
+    "jobResponsibility": "Collect and analyze data to identify patterns and trends. Develop data visualizations and dashboards to communicate insights to stakeholders. Collaborate with cross-functional teams to develop data-driven solutions.",
+    "educationalRequirements": "Bachelor's degree in Mathematics, Statistics, Computer Science, or related field.",
+    "experiences": "Minimum of 2 years of experience in data analysis.",
+    "phone": "555-345-6789",
+    "email": "jobs@generalElectric.com",
+    "salary": "5000000",
+    "location": "Hyderabad/ Bangalore/ Coimbatire"
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk6yIKrtsbUPsss_X85YOoya2ChtTUwlaiKQp0xRbJcw&s",
+    "jobTitle": "PepsiCo, American food and snack company.",
+    "jobOpenings": "32+",
+    "jobDescription": "We are seeking a creative and talented Graphic Designer to produce engaging visual content for our clients and help elevate their brand identities.",
+    "jobResponsibility": "Design and produce visual content for a variety of mediums, including print and digital. Collaborate with clients and project managers to develop creative concepts and strategies. Stay up-to-date with industry trends and techniques.",
+    "educationalRequirements": "Bachelor's degree in Graphic Design or related field.",
+    "experiences": "Minimum of 3 years of experience in graphic design, with a strong portfolio showcasing design skills.",
+    "phone": "555-456-7890",
+    "email": "jobs@Pepsico.com",
+    "salary": "5000000",
+    "location": "Hyderabad/ Bangalore/ Coimbatire"
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://img.freepik.com/free-icon/microsoft_318-566086.jpg",
+    "jobTitle": "Microsoft is the largest vendor of comp software.",
+    "jobOpenings": "78+",
+    "jobDescription": "We are seeking a detail-oriented Accountant to join our team and assist with financial reporting and analysis.",
+    "jobResponsibility": "Prepare and maintain financial statements and reports. Analyze financial data and develop forecasts. Ensure compliance with accounting standards and regulations.",
+    "educationalRequirements": "Bachelor's degree in Accounting or related field, and CPA certification preferred.",
+    "experiences": "Minimum of 5 years of experience in accounting, with knowledge of GAAP and financial reporting requirements.",
+    "phone": "555-567-8901",
+    "email": "jobs@microsoft.com",
+    "salary": "5000000",
+    "location": "Hyderabad/ Bangalore/ Coimbatire"
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "jobTitle": "American multinational technology company ",
+    "jobOpenings": "89+",
+    "jobDescription": "We are seeking a skilled Frontend Developer to join our team and help build responsive, user-friendly web applications.",
+    "jobResponsibility": "Design and develop web applications using HTML, CSS, and JavaScript. Collaborate with designers and backend developers to create seamless user experiences.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "Minimum of 3 years of experience in frontend development.",
+    "phone": "555-123-4567",
+    "email": "jobs@google.com",
+    "salary": "5000000",
+    "location": "Hyderabad/ Bangalore/ Coimbatire"
+  },
+  {
+    "id": "6",
+    "jobTitleLatest": "UI Technical Architect",
+    "companyNameLatest": "Philips",
+    "experiencesLatest": "13+ years",
+    "locationLatest": "Hyderabad/ Bangalore/ Coimbatire/ Nagpur",
+    "skillsLatest": "HTML5, CSS3, Bootstrap 4, JQuery, Angular, Node & ReactJs"
+  },
+  {
+    "id": "7",
+    "jobTitleLatest": "Senior Software Engineer",
+    "companyNameLatest": "Proctore & Gamble",
+    "experiencesLatest": "5+ years",
+    "locationLatest": "Hyderabad/ Bangalore/ Coimbatire/ Nagpur",
+    "skillsLatest": "Proven experience in C# (R, min 10 years)"
+  },
+  {
+    "id": "8",
+    "jobTitleLatest": "Senior Solution Architect",
+    "companyNameLatest": "Nokia",
+    "experiencesLatest": "16+ years",
+    "locationLatest": "Hyderabad/ Bangalore/ Coimbatire/ Nagpur",
+    "skillsLatest": "Java, Spring, Docker, Kubernates, Kafka and OpenAI"
+  },
+  {
+    "id": "9",
+    "jobTitleLatest": "Project Manager",
+    "companyNameLatest": "Mondelez",
+    "experiencesLatest": "20+ years",
+    "locationLatest": "Hyderabad/ Bangalore/ Coimbatire/ Nagpur",
+    "skillsLatest": "Strong knowledge of HTML, CSS and Javascript with one of the ...."
+  },
+  {
+    "id": "10",
+    "jobTitleLatest": "Delivery Manager",
+    "companyNameLatest": "L&T",
+    "experiencesLatest": "18+ years",
+    "locationLatest": "Hyderabad/ Bangalore/ Coimbatire/ Nagpur",
+    "skillsLatest": "HTML5, CSS3, Bootstrap 4, JQuery, Angular, Node & ReactJs"
+  }
+]
